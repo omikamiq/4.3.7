@@ -160,6 +160,7 @@ const buttonCSS = `
                 #E27BEB;
     height: 64px;
     width: 64px;
+    margin-right: 10px;
 `;
 
 const divCSS = `
